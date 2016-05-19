@@ -1,0 +1,17 @@
+//
+//  AppDelegate.h
+//  ConvenienceStore80
+//
+//  Created by MAC on 16/3/17.
+//  Copyright © 2016年 weiwang. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface AppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow *window;
+
+
+@end
+
